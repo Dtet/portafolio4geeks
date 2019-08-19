@@ -1,0 +1,45 @@
+body{
+    background: #171717;
+    font-family: "HandLee", cursive; 
+    font-size: 20px;
+
+}
+
+.postcard{
+    background: white;
+    width: 500px;
+    height: 300px;
+    margin: auto;
+    top: 50%;
+    left: 50%;
+    transform: translate (-50%, -50%);
+}
+
+.header-postcard{
+    background: yellow;
+    margin: 41px 
+    
+}
+
+.header-postcard img{
+    float: right;
+    width: 60px;
+    height: 60px;
+    margin: 13px 13px auto;
+    
+}
+
+.body-postcard{
+    background: blue;
+    
+}
+
+.left-body {
+    float: left;
+}
+.right-body {
+    float: right;
+}
+.footer-postcard{
+    background: grey;
+}
